@@ -1,0 +1,5 @@
+### app post
+GET http://localhost:3000/post/1
+
+### app get feed
+GET http://localhost:3000/feed
